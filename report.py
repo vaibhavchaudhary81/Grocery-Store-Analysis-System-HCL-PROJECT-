@@ -1,0 +1,17 @@
+from data_operations import load_data
+def generate_summary_report():
+    df = load_data()
+    print("\n" + "=" * 48)
+    print("       GROCERY PRICE ANALYSIS REPORT")
+    print("=" * 48)
+    print("Total records       :", len(df))
+    print("Unique products     :", df["Product"].nunique())
+    print("Stores compared     :", df["Store"].nunique())
+    print("Average grocery price: Rs.", round(df["Price"].mean(), 2))
+    print("Highest price       : Rs.", round(df["Price"].max(), 2))
+    print("Lowest price        : Rs.", round(df["Price"].min(), 2))
+    store_avg = df.groupby("Store")["Price"].mean()
+    print("\nAverage price by store:")
+    print(store_avg.round(2).to_string())
+    print("\nCheapest overall average store:", store_avg.idxmin())
+    print("=" * 48)

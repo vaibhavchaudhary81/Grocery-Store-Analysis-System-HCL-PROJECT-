@@ -1,0 +1,61 @@
+Record_ID,Product,Category,Store,Price
+1,Rice,Grains,DMart,60.0
+2,Rice,Grains,Reliance,66.8
+3,Rice,Grains,Local Store,61.6
+4,Wheat Flour,Grains,DMart,43.0
+5,Wheat Flour,Grains,Reliance,43.2
+6,Wheat Flour,Grains,Local Store,40.4
+7,Sugar,Essentials,DMart,46.0
+8,Sugar,Essentials,Reliance,51.6
+9,Sugar,Essentials,Local Store,43.2
+10,Salt,Essentials,DMart,24.0
+11,Salt,Essentials,Reliance,22.6
+12,Salt,Essentials,Local Store,22.2
+13,Cooking Oil,Oils,DMart,152.0
+14,Cooking Oil,Oils,Reliance,166.0
+15,Cooking Oil,Oils,Local Store,145.0
+16,Toor Dal,Pulses,DMart,120.0
+17,Toor Dal,Pulses,Reliance,131.6
+18,Toor Dal,Pulses,Local Store,119.2
+19,Moong Dal,Pulses,DMart,113.0
+20,Moong Dal,Pulses,Reliance,118.8
+21,Moong Dal,Pulses,Local Store,107.6
+22,Chana Dal,Pulses,DMart,91.0
+23,Chana Dal,Pulses,Reliance,100.2
+24,Chana Dal,Pulses,Local Store,86.4
+25,Milk,Dairy,DMart,62.0
+26,Milk,Dairy,Reliance,63.64
+27,Milk,Dairy,Local Store,58.68
+28,Curd,Dairy,DMart,37.0
+29,Curd,Dairy,Reliance,41.8
+30,Curd,Dairy,Local Store,34.6
+31,Paneer,Dairy,DMart,90.0
+32,Paneer,Dairy,Reliance,99.2
+33,Paneer,Dairy,Local Store,90.4
+34,Tea,Beverages,DMart,143.0
+35,Tea,Beverages,Reliance,151.2
+36,Tea,Beverages,Local Store,136.4
+37,Coffee,Beverages,DMart,181.0
+38,Coffee,Beverages,Reliance,197.4
+39,Coffee,Beverages,Local Store,172.8
+40,Bread,Bakery,DMart,39.0
+41,Bread,Bakery,Reliance,38.8
+42,Bread,Bakery,Local Store,36.6
+43,Biscuits,Snacks,DMart,32.0
+44,Biscuits,Snacks,Reliance,36.4
+45,Biscuits,Snacks,Local Store,29.8
+46,Potato,Vegetables,DMart,30.0
+47,Potato,Vegetables,Reliance,34.4
+48,Potato,Vegetables,Local Store,32.8
+49,Onion,Vegetables,DMart,43.0
+50,Onion,Vegetables,Reliance,43.2
+51,Onion,Vegetables,Local Store,40.4
+52,Tomato,Vegetables,DMart,36.0
+53,Tomato,Vegetables,Reliance,40.8
+54,Tomato,Vegetables,Local Store,33.6
+55,Apple,Fruits,DMart,124.0
+56,Apple,Fruits,Reliance,130.6
+57,Apple,Fruits,Local Store,118.2
+58,Banana,Fruits,DMart,52.0
+59,Banana,Fruits,Reliance,58.0
+60,Banana,Fruits,Local Store,49.0
